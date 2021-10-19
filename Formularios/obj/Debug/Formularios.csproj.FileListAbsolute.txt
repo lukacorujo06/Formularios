@@ -1,0 +1,7 @@
+C:\Users\LAB03\Documents\SharpDevelop Projects\Formularios\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\Formularios\Formularios\obj\Debug\Formularios.MainForm.resources
+C:\Users\LAB03\Documents\SharpDevelop Projects\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\LAB03\Documents\SharpDevelop Projects\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\Formularios\Formularios\obj\Debug\Formularios.pdb
